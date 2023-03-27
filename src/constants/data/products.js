@@ -4,7 +4,7 @@ export const PRODUCTS = [
     categoryId: 1,
     title: 'Tijera corta tubo',
     description: 'PVC CROSSMAN 1-5/8 - AUTOMATICA',
-    weight: '60gr',
+    weight: 'c/u',
     price: 3200,
   },
   {
@@ -12,7 +12,7 @@ export const PRODUCTS = [
     categoryId: 1,
     title: 'Trincheta crossman',
     description: 'ECONO C/UNA HOJA - 9932822 - 19 MM',
-    weight: '80gr',
+    weight: 'c/u',
     price: 400,
   },
   {
@@ -20,7 +20,7 @@ export const PRODUCTS = [
     categoryId: 2,
     title: 'Durlock solera',
     description: '35 BAJA C/PEST X 2600MM PERFIL DE ACERO GALVANIZADO',
-    weight: '70gr',
+    weight: 'c/u',
     price: 570,
   },
   {
@@ -28,7 +28,7 @@ export const PRODUCTS = [
     categoryId: 2,
     title: 'Durlock Montante',
     description: '34X35X2600 MM PARA CIELORRASOS',
-    weight: '90gr',
+    weight: 'c/u',
     price: 650,
   },
   {
@@ -36,7 +36,7 @@ export const PRODUCTS = [
     categoryId: 3,
     title: 'Ceramica Cañuelas',
     description: 'BORDE BISELADO, 32X47',
-    weight: '60gr',
+    weight: 'c/u',
     price: 1000,
   },
   {
@@ -44,7 +44,7 @@ export const PRODUCTS = [
     categoryId: 3,
     title: 'Ceramica Esmeralda',
     description: 'BORDE BISELADO, 36X36',
-    weight: '60gr',
+    weight: 'c/u',
     price: 3500,
   },
   {
@@ -52,7 +52,7 @@ export const PRODUCTS = [
     categoryId: 4,
     title: 'Cemento Loma Negra',
     description: 'CEMENTO DE USO GENERAL O CON PROPIEDADES ESPECIALES',
-    weight: '60gr',
+    weight: 'c/u',
     price: 2000,
   },
   {
@@ -60,7 +60,7 @@ export const PRODUCTS = [
     categoryId: 5,
     title: 'Angulo de hierro',
     description: 'BARRA DE 6 MT. PERFIL L DE 25,40 X 3,20 MM',
-    weight: '60gr',
+    weight: 'c/u',
     price: 4000,
   },
 ];
